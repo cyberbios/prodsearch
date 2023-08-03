@@ -66,15 +66,15 @@ f you'd like to contribute to this project, you can follow these steps:
 
 ```
 Bash
-Copy code
+
 git checkout -b my-feature-branch
 ```
 
 3. Make your changes and commit them:
 
 ```
-bash
-Copy code
+Bash
+
 git commit -m "Add my awesome feature"
 ```
 
@@ -82,7 +82,7 @@ git commit -m "Add my awesome feature"
 
 ```
 Bash
-Copy code
+
 git push origin my-feature-branch
 ```
 
