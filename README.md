@@ -14,7 +14,6 @@ To run the app on your local machine, follow these steps:
 
 ```
 bash
-Copy code
 git clone https://github.com/your-username/image-gallery-app.git
 ```
 
@@ -22,7 +21,6 @@ git clone https://github.com/your-username/image-gallery-app.git
 
 ```
 bash
-Copy code
 cd image-gallery-app
 ```
 
@@ -30,7 +28,6 @@ cd image-gallery-app
 
 ```
 bash
-Copy code
 npm install
 ```
 
@@ -38,7 +35,6 @@ npm install
 
 ```
 bash
-Copy code
 npm start
 ```
 
@@ -66,7 +62,6 @@ f you'd like to contribute to this project, you can follow these steps:
 
 ```
 Bash
-
 git checkout -b my-feature-branch
 ```
 
@@ -74,7 +69,6 @@ git checkout -b my-feature-branch
 
 ```
 Bash
-
 git commit -m "Add my awesome feature"
 ```
 
@@ -82,7 +76,6 @@ git commit -m "Add my awesome feature"
 
 ```
 Bash
-
 git push origin my-feature-branch
 ```
 
