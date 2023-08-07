@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-import Product from "../../models/Product";
 
 // Connect to MongoDB
 mongoose.connect("mongodb://localhost:27017/imageDB", {
