@@ -4,7 +4,7 @@ This is a simple Image Gallery app built with React using the React Slick carous
 
 ## Demo
 
-You can see a live demo of the app here.
+You can see a live demo of the app [here](https://cyberbios.github.io/prodsearch).
 
 ## Getting Started
 
